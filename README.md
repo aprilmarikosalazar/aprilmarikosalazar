@@ -11,7 +11,8 @@ I am most interested in how humans make decisions under multiple concurrent hier
 🌱 I’m currently teaching myself the following...
 - I write shell scripts to parallel process hundreds of audio files through multiple CLI executions. I aim generate quality SST with the help of ffmpeg & OpenAI Whisper.
 - After tinkering with rather large LLMs (30B+ parameters) locally, I then feed the output among other notes (formats are various and manually tagged) to my org-roam workflow.
-- My database uses Emacs to extract my inputs, building my graph used for "trial by fire". I do this by using 2 SQL queries and access NetworkX.
+- My database uses Emacs to extract my inputs, with 2 SQL queries, and builds bi-directional NetworkX graphs to form connections and study the interrelated functions.
+- My project is being used for a "trial by fire" purpose. I'm very excited to talk about it, so feel free to inquire!
   
 Beyond my professional and academic pursuits, my life passion lies in broadening accessibility and developing usable resources for those facing pervasive social barriers, particularly due to being isolated and belonging to "forgotten", "fringe", and/or rural populations; thus such are tagged as "edge cases".
 I also love: to talk about culture (I grew up in two vastly different continents), exploring all the rabbit holes falling under epistemology, watching babies *learn*, tinkering in the Maskerspace (I make engaging hardware for experiment use, with criteria being automated data collection, high rates of engagement in order to keep the child's attention, etc.), creating my own library cataloging system, 🎞️ [auteur theory](https://mubi.com/en/users/10661269/lists) 🎞️, ✨ [music](https://open.spotify.com/user/123380108) ✨, complex systems, and my loved ones.
