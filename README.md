@@ -25,7 +25,7 @@ See [Contact](#contact) for more information.
 | - | - | - 
 | month/year | [![title x](https://img.shields.io/badge/x--x--x-black?logo=github&logoColor=white)](https://github.com/aprilmarikosalazar/PyProg) | Analyzer Tool and Artificial Neural Network
 | month/year | [![title y](https://img.shields.io/badge/y--y--y-black?logo=github&logoColor=white)](https://github.com/aprilmarikosalazar/dataisbeautiful) | Data is Beautiful
-| month/year | [![title z](https://img.shields.io/badge/z--z--z-black?logo=github&logoColor=white)](https://github.com/aprilmarikosalazar/gopnik-lab-mi-task) | Mirror Invariance Experiment Design: Gopnik Lab, UC Berkeley 
+| month/year | [![title z](https://img.shields.io/badge/z--z--z-black?logo=github&logoColor=white)](https://github.com/aprilmarikosalazar/gopnik-lab-mi-task) | Mirror Invariance Experiment Design: Gopnik Lab
 
 See [here](https://github.com/aprilmarikosalazar/my-directory) for a list of all my GitHub repos.
 
