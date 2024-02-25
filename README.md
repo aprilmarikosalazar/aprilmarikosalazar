@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&vCenter=true&width=435&lines=April+Mariko+Salazar;Seasoned+Fintech+Professional...;...Turned+Data+Science+Student!;Current:+Cog+Dev+Research;Past:+pre-regulation+Crypto;>>+One+of+the+first+hires+at+Ripple;>>+One+of+the+first+hires+at+Affirm;Now+going+after+what+I+🤍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&vCenter=true&width=435&lines=April+Mariko+Salazar;Seasoned+Fintech+Professional...;...Turned+Data+Science+Student!;Current:+Cog+Dev+Research;Past:+pre-regulation+Crypto;>>+One+of+the+first+hires+at+Ripple;>>+One+of+the+first+hires+at+Affirm;Now+going+after+what+I+🤍!)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white)](https://aprilmarikosalazar.github.io/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aprilms/)
