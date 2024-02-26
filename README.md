@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/745449345737949194)
 
 I'm an aspiring data scientist with interests in Causality, CS, and Research Methods. \
-I find myself most interested in how humans make decisions under multiple concurrent hierarchies of commitments. Currently, I'm developing my technical knowledge in ML in order to pursue predictive methods and explore more underlying mechanisms. Basically, I'm asking "what causal factors are and/or could be influencing the outcome of *x*?"
+Currently, I'm developing my technical knowledge in ML in order to pursue predictive methods and explore more underlying mechanisms. Basically, I'm asking "what causal factors are and/or could be influencing the outcome of *x*?"
 
 🌱 What I’m currently working on...
 - I write shell scripts to parallel process hundreds of audio files through multiple CLI executions. I aim generate quality SST with the help of ffmpeg & OpenAI Whisper.
@@ -14,7 +14,7 @@ I find myself most interested in how humans make decisions under multiple concur
 - My database uses Emacs to extract my inputs, with 2 SQL queries, and builds bi-directional NetworkX graphs to form connections and study the interrelated functions.
 - My project is being used for a "trial by fire" purpose. I'm very excited to talk about it, so feel free to inquire!
   
-In line with my professional and academic pursuits, my passion lies in broadening accessibility and developing usable resources for those facing pervasive social barriers, particularly due to being isolated and belonging to "forgotten", "fringe", and/or rural populations; thus such are tagged as "edge cases". \
+In line with my professional and academic pursuits, my passion lies in broadening accessibility and developing usable resources for those facing pervasive social barriers, particularly due to being isolated and belonging to "forgotten", "fringe", and/or rural populations; thus such are tagged as "edge cases". I also find myself most interested in how humans make decisions under multiple concurrent hierarchies of commitments.  \
 I also love: to talk about culture (I grew up going back and forth between two vastly different continents), exploring all rabbit holes within epistemology, watching babies *learn*, tinkering in the Maskerspace (I make engaging hardware for experiments to satisfy criteria such as: automated system design for data collection, appealing physical design for toddler interest, reaching high rates of engagement, etc.), creating my own library cataloging system, 🎞️ [auteur theory](https://mubi.com/en/users/10661269/lists) 🎞️, ✨ [music](https://open.spotify.com/user/123380108) ✨, complex systems, and my loved ones.
 
 See [Contact](#contact) for more information.
