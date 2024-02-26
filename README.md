@@ -8,7 +8,7 @@
 I am an aspiring data scientist with interests in Causality, CS, and Research Methods.
 I am most interested in how humans make decisions under multiple concurrent hierarchies of commitments. Currently, I'm developing my technical knowledge in ML in order to pursue predictive methods and explore more underlying mechanisms. Basically, I'm asking "what causal factors are and/or could be influencing the outcome of x?"
 
-🌱 I’m currently teaching myself the following...
+🌱 What I’m currently working on...
 - I write shell scripts to parallel process hundreds of audio files through multiple CLI executions. I aim generate quality SST with the help of ffmpeg & OpenAI Whisper.
 - After tinkering with rather large LLMs (30B+ parameters) locally, I then feed the output among other notes (formats are various and manually tagged) to my org-roam workflow.
 - My database uses Emacs to extract my inputs, with 2 SQL queries, and builds bi-directional NetworkX graphs to form connections and study the interrelated functions.
