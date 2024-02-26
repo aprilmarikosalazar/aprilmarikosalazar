@@ -10,7 +10,7 @@ I find myself most interested in how humans make decisions under multiple concur
 
 🌱 What I’m currently working on...
 - I write shell scripts to parallel process hundreds of audio files through multiple CLI executions. I aim generate quality SST with the help of ffmpeg & OpenAI Whisper.
-- After tinkering with rather large LLMs (30B+ parameters) locally, I then feed the output among other notes (formats are various and manually tagged) to my org-roam workflow.
+- After tinkering with large LLMs (30B+ parameters), I then feed the output among other notes (formats are various and manually tagged) to my local org-roam workflow.
 - My database uses Emacs to extract my inputs, with 2 SQL queries, and builds bi-directional NetworkX graphs to form connections and study the interrelated functions.
 - My project is being used for a "trial by fire" purpose. I'm very excited to talk about it, so feel free to inquire!
   
