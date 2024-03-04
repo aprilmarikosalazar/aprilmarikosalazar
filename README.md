@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&vCenter=true&width=435&lines=April+Mariko+Salazar;Seasoned+Fintech+Professional...;...Turned+Data+Science+Student!;Current:+Cog+Dev+Research;Past:+pre-regulation+Crypto;>>+One+of+the+first+hires+at+Ripple;>>+One+of+the+first+hires+at+Affirm;Now+going+after+what+I+🤍.;Pleased+to+meet+you!)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white)](https://aprilmarikosalazar.github.io/)
+[![Website](https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white)](https://midnightinaperfect.world)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aprilms/)
 [![GitHub](https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aprilmarikosalazar)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/745449345737949194)
@@ -42,7 +42,7 @@ See [here](https://github.com/aprilmarikosalazar/my-directory) for a list of all
 ## Contact
 
 This GitHub is mostly audience-agonostic and supports some of my current budding work. For a specific audience-facing profile, see below.
-- For industry/private-sector: [Website](https://aprilmarikosalazar.github.io/), [LinkedIn](https://www.linkedin.com/in/aprilms/), Resume*
+- For industry/private-sector: [Website](https://github.com/aprilmarikosalazar), [LinkedIn](https://www.linkedin.com/in/aprilms/), Resume*
 - For academia/R&D: Website*, CV*
 
 *To avoid data harvests, web scrapes, and the like, my resume/CV is not linked here -- send me a personal message for it. And always happy to connect via [LinkedIn](https://www.linkedin.com/in/aprilms/) and/or have a chat over 🍵 (let's find some time on [Calendly](https://calendly.com/aprilms)!
