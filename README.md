@@ -9,14 +9,14 @@ I'm an aspiring data scientist with interests in Causality, CS, and Research Met
 I find myself most interested in how humans make decisions under multiple concurrent hierarchies of commitments. Currently, I'm developing my technical knowledge in ML in order to pursue predictive methods and explore more underlying mechanisms. Basically, I'm asking "what causal factors are and/or could be influencing the outcome of *x*?"
 
 🌱 What I’m currently working on...
-- I write shell scripts to parallel process hundreds of audio files through multiple CLI executions. I aim generate quality SST with the help of ffmpeg & OpenAI Whisper.
+- I write shell scripts to parallel process hundreds of audio files through multiple CLI executions. I aim to generate quality SST with the help of ffmpeg & OpenAI Whisper.
 - After tinkering with large LLMs (30B+ parameters), I then feed the output among other notes (formats are various and manually tagged) to my local org-roam workflow.
 - My database uses Emacs to extract my inputs, with 2 SQL queries, and builds bi-directional NetworkX graphs to form connections and study the interrelated functions.
 - My project is being used for a "trial by fire" purpose. I'm very excited to talk about it, so feel free to inquire!
   
 In line with my professional and academic pursuits, my passion lies in broadening accessibility and developing usable resources for those facing pervasive social barriers, particularly due to being isolated and belonging to "forgotten", "fringe", and/or rural populations; thus such are tagged as "edge cases".
 
-Separately, I 🤍: talking about culture (I grew up between two vastly different continents), exploring all rabbit holes within epistemology, watching babies *learn*, working in the Maskerspace (I make engaging hardware for experiments to satisfy: automated system design for data collection, appealing physical design for toddler interest, meeting high rates of engagement, etc.), creating my own library cataloging system, 🎞️ [auteur theory](https://mubi.com/en/users/10661269/lists) 🎞️, ✨ [music](https://open.spotify.com/user/123380108) ✨, complex systems, and my loved ones.
+Separately, I 🤍: talking about culture (I grew up between two vastly different continents), exploring all rabbit holes within epistemology, watching babies *learn*, working in the Makerspace (I make engaging hardware for experiments to satisfy: automated system design for data collection, appealing physical design for toddler interest, meeting high rates of engagement, etc.), creating my own library cataloging system, 🎞️ [auteur theory](https://mubi.com/en/users/10661269/lists) 🎞️, ✨ [music](https://open.spotify.com/user/123380108) ✨, studying complex system, and my loved ones.
 
 See [Contact](#contact) for more information.
 
