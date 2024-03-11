@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&vCenter=true&width=435&lines=April+Mariko+Salazar;Seasoned+Fintech+Professional...;...Turned+Data+Science+Student!;Current:+Cog+Dev+Research;Past:+pre-regulation+Crypto;>>+One+of+the+first+hires+at+Ripple;>>+One+of+the+first+hires+at+Affirm;Now+going+after+what+I+🤍.;Pleased+to+meet+you!)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white)](http://midnightinaperfect.world)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aprilms/)
-[![GitHub](https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aprilmarikosalazar)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/745449345737949194)
+[![Website](https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white)](https://midnightinaperfect.world){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aprilms/){:target="_blank"}
+[![GitHub](https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aprilmarikosalazar){:target="_blank"}
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/745449345737949194){:target="_blank"}
 
 I'm an aspiring data scientist with interests in Causality, CS, and Research Methods. \
 I find myself most interested in how humans make decisions under multiple concurrent hierarchies of commitments. Currently, I'm developing my technical knowledge in ML in order to pursue predictive methods and explore more underlying mechanisms. Basically, I'm asking "what causal factors are and/or could be influencing the outcome of *x*?"
@@ -16,7 +16,7 @@ I find myself most interested in how humans make decisions under multiple concur
   
 In line with my professional and academic pursuits, my passion lies in broadening accessibility and developing usable resources for those facing pervasive social barriers, particularly due to being isolated and belonging to "forgotten", "fringe", and/or rural populations; thus such are tagged as "edge cases".
 
-Separately, I 🤍: talking about culture (I grew up between two vastly different continents), exploring all rabbit holes within epistemology, watching babies *learn*, working in the Makerspace (I make engaging hardware for experiments to satisfy: automated system design for data collection, appealing physical design for toddler interest, meeting high rates of engagement, etc.), creating my own library cataloging system, 🎞️ [auteur theory](https://mubi.com/en/users/10661269/lists) 🎞️, ✨ [music](https://open.spotify.com/user/123380108) ✨, studying complex system, and my loved ones.
+Separately, I 🤍: talking about culture (I grew up between two vastly different continents), exploring all rabbit holes within epistemology, watching babies *learn*, working in the Makerspace (I make engaging hardware for experiments to satisfy: automated system design for data collection, appealing physical design for toddler interest, meeting high rates of engagement, etc.), creating my own library cataloging system, 🎞️ [auteur theory](https://mubi.com/en/users/10661269/lists){:target="_blank"} 🎞️, ✨ [music](https://open.spotify.com/user/123380108){:target="_blank"} ✨, studying complex system, and my loved ones.
 
 See [Contact](#contact) for more information.
 
@@ -24,11 +24,11 @@ See [Contact](#contact) for more information.
 
 | **Initial Release** | **Project** | **Brief**
 | - | - | - 
-| YYYY/MM | [![title x](https://img.shields.io/badge/x--x-black?logo=github&logoColor=white)](https://github.com/aprilmarikosalazar/PyProg) | Analyzer Tool and Artificial Neural Network
-| YYYY/MM | [![title y](https://img.shields.io/badge/y--y-black?logo=github&logoColor=white)](https://github.com/aprilmarikosalazar/dataisbeautiful) | Data is Beautiful
-| YYYY/MM | [![title z](https://img.shields.io/badge/z--z-black?logo=github&logoColor=white)](https://github.com/aprilmarikosalazar/gopnik-lab-mi-task) | Mirror Invariance Experiment Design: Gopnik Lab
+| YYYY/MM | [![title x](https://img.shields.io/badge/x--x-black?logo=github&logoColor=white)](https://github.com/aprilmarikosalazar/PyProg){:target="_blank"} | Analyzer Tool and Artificial Neural Network
+| YYYY/MM | [![title y](https://img.shields.io/badge/y--y-black?logo=github&logoColor=white)](https://github.com/aprilmarikosalazar/dataisbeautiful){:target="_blank"} | Data is Beautiful
+| YYYY/MM | [![title z](https://img.shields.io/badge/z--z-black?logo=github&logoColor=white)](https://github.com/aprilmarikosalazar/gopnik-lab-mi-task){:target="_blank"} | Mirror Invariance Experiment Design: Gopnik Lab
 
-See [here](https://github.com/aprilmarikosalazar/my-directory) for a list of all my GitHub repos.
+See [here](https://github.com/aprilmarikosalazar/my-directory){:target="_blank"} for a list of all my GitHub repos.
 
 ## Skills
 
@@ -42,7 +42,7 @@ See [here](https://github.com/aprilmarikosalazar/my-directory) for a list of all
 ## Contact
 
 This GitHub is mostly audience-agonostic and supports some of my current budding work. For a specific audience-facing profile, see below.
-- For industry/private-sector: [Website](http://midnightinaperfect.world), [LinkedIn](https://www.linkedin.com/in/aprilms/), Resume*
+- For industry/private-sector: [Website](http://midnightinaperfect.world){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/aprilms/){:target="_blank"}, Resume*
 - For academia/R&D: Website*, CV*
 
-*To avoid data harvests, web scrapes, and the like, my resume/CV is not linked here -- send me a personal message for it. And always happy to connect via [LinkedIn](https://www.linkedin.com/in/aprilms/) and/or have a chat over 🍵 (let's find some time on [Calendly](https://calendly.com/aprilms)!
+*To avoid data harvests, web scrapes, and the like, my resume/CV is not linked here -- send me a personal message for it. And always happy to connect via [LinkedIn](https://www.linkedin.com/in/aprilms/){:target="_blank"} and/or have a chat over 🍵 (let's find some time on [Calendly](https://calendly.com/aprilms){:target="_blank"}!
