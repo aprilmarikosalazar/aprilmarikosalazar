@@ -16,7 +16,7 @@ I find myself most interested in how humans make decisions under multiple concur
   
 In line with my professional and academic pursuits, my passion lies in broadening accessibility and developing usable resources for those facing pervasive social barriers, particularly due to being isolated and belonging to "forgotten", "fringe", and/or rural populations; thus such are tagged as "edge cases".
 
-Separately, I 🤍: talking about culture (I grew up between two vastly different continents), exploring all rabbit holes within epistemology, watching babies *learn*, working in the Makerspace (I make engaging hardware for experiments to satisfy: automated system design for data collection, appealing physical design for toddler interest, meeting high rates of engagement, etc.), creating my own library cataloging system, 🎞️ [auteur theory](https://mubi.com/en/users/10661269/lists) 🎞️, ✨ [music](https://open.spotify.com/user/123380108) ✨, studying complex system, and my loved ones.
+Separately, I 🤍: talking about culture (I grew up between two vastly different continents), exploring all rabbit holes within epistemology, watching babies *learn*, working in the Makerspace (I make engaging hardware for experiments to satisfy: automated system design for data collection, appealing physical design for toddler interest, meeting high rates of engagement, etc.), creating my own library cataloging system, 🎞️ [auteur theory](https://mubi.com/en/users/10661269/lists) 🎞️, ✨ [music](https://open.spotify.com/user/123380108) ✨, studying complex systems, and human conversation.
 
 See [Contact](#contact) for more information.
 
