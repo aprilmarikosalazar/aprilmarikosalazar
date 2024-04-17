@@ -22,9 +22,9 @@ See [Contact](#contact) for more information.
 
 ## Selected Projects - Soon to be updated!
 
-| **Initial Release** | **Project** | **Brief**
+| **Release** | **Project** | **Brief**
 | - | - | - 
-| YYYY/MM | [![title x](https://img.shields.io/badge/x--x-black?logo=github&logoColor=white)](https://github.com/aprilmarikosalazar/PyProg) | Analyzer Tool and Artificial Neural Network
+| 2024/04 | [![title x](https://img.shields.io/badge/SDinPy-black?logo=github&logoColor=white)](https://github.com/aprilmarikosalazar/SDinPy) | FFBP Artificial Neural Network
 | YYYY/MM | [![title y](https://img.shields.io/badge/y--y-black?logo=github&logoColor=white)](https://github.com/aprilmarikosalazar/dataisbeautiful) | Data is Beautiful
 | YYYY/MM | [![title z](https://img.shields.io/badge/z--z-black?logo=github&logoColor=white)](https://github.com/aprilmarikosalazar/gopnik-lab-mi-task) | Mirror Invariance Experiment Design: Gopnik Lab
 
