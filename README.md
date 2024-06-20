@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&vCenter=true&width=435&lines=April+Mariko+Salazar;Seasoned+Fintech+Professional...;...Turned+Data+Science+Student!;Current:+Cog+Dev+Research;Past:+pre-regulation+Crypto;>>+One+of+the+first+hires+at+Ripple;>>+One+of+the+first+hires+at+Affirm;Now+going+after+what+I+🤍.;Pleased+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&vCenter=true&width=435&lines=April+Mariko+Salazar;Current:+Cog+Dev+Research;Past:+pre-regulation+Crypto;>>+One+of+the+first+hires+at+Ripple;>>+One+of+the+first+hires+at+Affirm;Now+going+after+what+I+🤍.;Pleased+to+meet+you!)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white)](https://midnightinaperfect.world)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aprilms/)
 [![GitHub](https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aprilmarikosalazar)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/745449345737949194)
 
-I'm an aspiring data scientist with interests in Causality, CS, and Research Methods. \
+My interests are in Causality, CS, and Research Methods. \
 I find myself most interested in how humans make decisions under multiple concurrent hierarchies of commitments. Currently, I'm developing my technical knowledge in ML in order to pursue predictive methods and explore more underlying mechanisms. Basically, I'm asking "what causal factors are and/or could be influencing the outcome of *x*?"
 
 🌱 What I’m currently working on...
