@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&vCenter=true&width=435&lines=April+Mariko+Salazar;Current:+Cog+Dev+Research;Past:+pre-regulation+Crypto;>>+One+of+the+first+hires+at+Ripple;>>+One+of+the+first+hires+at+Affirm;Now+going+after+what+I+🤍.;Pleased+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&vCenter=true&width=435&lines=Hi!+I'm+April;Current:+Cog+Dev+Research;Past:+pre-regulation+Crypto;>>+One+of+the+first+hires+at+Ripple;>>+One+of+the+first+hires+at+Affirm;Now+going+after+what+I+🤍.;Pleased+to+meet+you!)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white)](https://midnightinaperfect.world)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aprilms/)
@@ -16,7 +16,7 @@ I find myself most interested in how humans make decisions under multiple concur
   
 In line with my professional and academic pursuits, my passion lies in broadening accessibility and developing usable resources for those facing pervasive social barriers, particularly due to being isolated and belonging to "forgotten", "fringe", and/or rural populations; thus such are tagged as "edge cases".
 
-Separately, I 🤍: talking about culture (I grew up between two vastly different continents), exploring all rabbit holes within epistemology, watching babies *learn*, working in the Makerspace (I make engaging hardware for experiments to satisfy: automated system design for data collection, appealing physical design for toddler interest, meeting high rates of engagement, etc.), creating my own library cataloging system, 🎞️ [auteur theory](https://mubi.com/en/users/10661269/lists) 🎞️, ✨ [music](https://open.spotify.com/user/123380108) ✨, studying complex systems, and human conversation.
+Other things I 🤍: talking about culture (I grew up between two vastly different continents), exploring various epistemological rabbit holes, learning about learning, working in the Makerspace (I make engaging hardware for experiments to satisfy: automated system design for data collection, appealing physical design for toddler interest, meeting high rates of engagement, etc.), cataloging systems, complex systems, 🎞️ [auteur theory](https://mubi.com/en/users/10661269/lists) 🎞️, and puzzle games.
 
 See [Contact](#contact) for more information.
 
